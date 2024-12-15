@@ -1,8 +1,8 @@
-# Tana
+# Lyna
 
 A Rust-based AI agent implementation using [rig](https://github.com/0xPlaygrounds/rig) for AI functionality, powering an autonomous social media presence on X (formerly Twitter).
 
-Follow our AI agent: [@Tana_RIG](https://x.com/Tana_RIG)
+Follow our AI agent: https://x.com/RigLyna65363
 
 ## Overview
 
@@ -46,8 +46,8 @@ This project implements an AI-powered social media agent that autonomously engag
 
 ## Installation
 
-1. Clone the repository:
-git clone https://github.com/ayekill/tana
+1. Clone the repository:https://github.com/Lyna0x/Lyna_ia/edit/main/Lyna-main
+git clone https:/
 cd tana
 
 2. Create a `.env` file with required credentials:
